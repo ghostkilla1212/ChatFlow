@@ -1,13 +1,11 @@
 body {
-    background-color: #0B141A;
+    background-color: #0B141A; /*von der ganzen webseite den hintergrund*/
 }
 
 .headerbar {
-   background-color: #0B141A;
-    position: absolute;
-    top: 0%;
-    left: 0%;
-    width: 122%;
-    height: 12%;
-    border-bottom: 1px solid black;
+   background-color: #1b384b; /*hintergrundfarbe der headerbar*/
+    position: absolute; /*position absolute*/
+    top: 0%; /*damit es oben bleibt und nicht unten*/
+    left: 0%; /*damit das links an der ecke bleibt die 0 sorgt dafür*/
+    width: 100%; /*breite 100% dass es an der gnzen webseite ausgerollt ist*/
 }
