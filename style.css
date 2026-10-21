@@ -12,13 +12,11 @@ body {
 
 .headerbar-button-container {
   position: absolute;
-  justify-content: center;
- top: 30%;
- left: 88%;
+  top: 30%;
+  left: 88%;
 }
 
 .headerbar-about-us {
- gap: 20px;
   background: none;
   border: none;
   font-size: 100%;
@@ -28,6 +26,12 @@ body {
 .headerbar-about-us a {
   text-decoration: none;
   color: white;
+}
+
+.btn-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
 }
 
 
