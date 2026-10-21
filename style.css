@@ -1,27 +1,36 @@
 body {
-    background-color: #0B141A; /*von der ganzen webseite den hintergrund*/
+    background-color: #0B141A; 
 }
 
 .headerbar {
-   background-color: #1b6291; /*hintergrundfarbe der headerbar*/
-    position: absolute; /*position absolute*/
-    top: 0%; /*damit es oben bleibt und nicht unten*/
-    left: 0%; /*damit das links an der ecke bleibt die 0 sorgt dafür*/
-    width: 100%; /*breite 100% dass es an der gnzen webseite ausgerollt ist*/
+   background-color: #1b6291; 
+    position: absolute;
+    top: 0%; 
+    left: 0%; 
+    width: 100%; 
 }
 
 .headerbar-about-us {
-  background: none; /*hintergrund keins*/
-  border: none; /*rand keins*/
+  background: none; 
+  border: none; 
+  position: absolute;
+  top: 5%; 
+  margin-left: 30%; 
+  font-size: 99%;
+}
+
+.headerbar-about-us a {
+  text-decoration: none;
+  color: white;
 }
 
 
 .logo-button {
-  background: none; /*hintergrund keins*/
-  border: none; /*rand keins*/
+  background: none; 
+  border: none; 
 }
 
 .logo {
-  height: 120px; /*gröse des buttons 120px*/
-  margin-left: 100%; /*rand links 100% nach links*/
+  height: 90px; 
+  margin-left: 100%; 
 }
