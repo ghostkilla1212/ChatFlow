@@ -10,6 +10,11 @@ body {
     width: 100%; /*breite 100% dass es an der gnzen webseite ausgerollt ist*/
 }
 
+.headerbar-about-us {
+  background: none; /*hintergrund keins*/
+  border: none; /*rand keins*/
+}
+
 
 .logo-button {
   background: none; /*hintergrund keins*/
