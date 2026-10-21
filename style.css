@@ -17,9 +17,6 @@ body {
 }
 
 .logo {
-  width: 160px;
-  height: auto;
-  object-fit: contain;
-position: sticky;
-top: 20px;
+  height: 120px; /*gröse des buttons 120px*/
+  margin-left: 100%; /*rand links 100% nach links*/
 }
