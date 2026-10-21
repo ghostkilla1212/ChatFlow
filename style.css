@@ -3,9 +3,23 @@ body {
 }
 
 .headerbar {
-   background-color: #1b384b; /*hintergrundfarbe der headerbar*/
+   background-color: #1b6291; /*hintergrundfarbe der headerbar*/
     position: absolute; /*position absolute*/
     top: 0%; /*damit es oben bleibt und nicht unten*/
     left: 0%; /*damit das links an der ecke bleibt die 0 sorgt dafür*/
     width: 100%; /*breite 100% dass es an der gnzen webseite ausgerollt ist*/
+}
+
+
+.logo-button {
+  background: none; /*hintergrund keins*/
+  border: none; /*rand keins*/
+}
+
+.logo {
+  width: 160px;
+  height: auto;
+  object-fit: contain;
+position: sticky;
+top: 20px;
 }
