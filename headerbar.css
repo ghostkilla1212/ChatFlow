@@ -1,0 +1,41 @@
+.headerbar {
+   background-color: #1b6291; 
+    position: absolute;
+    top: 0%; 
+    left: 0%; 
+    width: 100%;
+}
+
+.headerbar-button-container {
+  position: absolute;
+  top:  30%;
+  left: 80%;
+}
+
+.btn-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.headerbar-about-us {
+  background: none;
+  border: none;
+  font-size: 100%;
+  cursor: pointer;
+}
+
+.headerbar-about-us a {
+  text-decoration: none;
+  color: white;
+}
+
+
+.logo-button {
+  background: none; 
+  border: none; 
+}
+
+.logo {
+  height: 100px; 
+}
