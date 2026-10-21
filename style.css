@@ -2,3 +2,23 @@ body {
     background-color: #0B141A; 
 }
 
+
+.image-container img {
+  height: 400px;
+  position: absolute;
+  top: 33%;
+  margin-left: 16%;
+}
+
+.heading-subtitle {
+  color: white;
+  font-family: "Roboto Slab", serif;
+  text-align: center;
+  padding: 20%;
+  padding-left: 43%;
+  font-size: 199%;
+}
+
+.image {
+  width: 50%;
+}
