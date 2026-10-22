@@ -1,5 +1,11 @@
 body {
-    background-color: #0B141A; 
+    background-color: #0B141A;
+    margin: 0;
+}
+
+.two {
+  background-color: #1b6291;
+  padding: 60px;
 }
 
 
@@ -31,3 +37,4 @@ body {
   text-align: center;
   font-size: 199%;
 }
+
