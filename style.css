@@ -8,6 +8,11 @@ body {
   padding: 60px;
 }
 
+.ios-playstore {
+  width: 50%;
+  margin-left: 52%;
+}
+
 
 .image-container img {
   height: 400px;
