@@ -52,3 +52,18 @@ body {
   font-size: 300%;
 }
 
+.ask-box {
+   background-color: #142835;
+    border: 2px solid blue;
+    text-align: center;
+    border-radius: 12px;
+    width: 500px;
+    height: 70px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.ask-box p {
+  color: white;
+}
+
