@@ -1,0 +1,107 @@
+
+
+
+/* TABLET */
+@media (max-width: 1024px) {
+
+    .two {
+        padding: 35px;
+    }
+
+    .logo-image {
+        width: 45%;
+        margin-left: 45%;
+    }
+
+    .heading {
+        top: -150px;
+        font-size: 80%;
+    }
+
+    .image-container img {
+        height: 280px;
+        top: 25%;
+        margin-left: 8%;
+    }
+
+    .heading-subtitle {
+        padding: 10%;
+        padding-left: 35%;
+        font-size: 150%;
+    }
+
+    .image {
+        width: 65%;
+        padding: 5%;
+    }
+
+    .text {
+        font-size: 220%;
+    }
+
+    .ask-box {
+        width: 80%;
+        max-width: 500px;
+        box-sizing: border-box;
+    }
+}
+
+
+/* HANDY */
+@media (max-width: 600px) {
+
+    .two {
+        padding: 20px;
+    }
+
+    .logo-image {
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    .heading {
+        top: 0;
+        font-size: 110%;
+    }
+
+    .image-container img {
+        height: auto;
+        width: 75%;
+        position: relative;
+        top: auto;
+        margin-left: 12.5%;
+    }
+
+    .heading-subtitle {
+        padding: 20px;
+        font-size: 110%;
+        text-align: center;
+    }
+
+    .image {
+        width: 90%;
+        padding: 5%;
+        box-sizing: border-box;
+    }
+
+    .text {
+        font-size: 180%;
+    }
+
+    .ask-box {
+        width: 90%;
+        height: auto;
+        min-height: 70px;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    .ask-box p {
+        overflow-wrap: break-word;
+    }
+
+    footer {
+        margin-top: 35px;
+        padding: 12px;
+    }
+}
